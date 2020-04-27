@@ -49,7 +49,7 @@ micro(hooked(handler)).listen(3000);
 ## Install
 
 ```bash
-yarn add @infinitex/micro-use
+yarn add https://github.com/InfiniteXyy/micro-use
 ```
 
 ## Note
