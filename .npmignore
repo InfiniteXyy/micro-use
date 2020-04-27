@@ -1,0 +1,6 @@
+test.spec.js
+example
+.idea
+.DS_Store
+node_modules
+package-lock.json

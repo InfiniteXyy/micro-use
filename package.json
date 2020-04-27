@@ -1,0 +1,23 @@
+{
+  "name": "@infinitex/micro-use",
+  "private": false,
+  "version": "0.0.1",
+  "description": "Another composition API plugin for ZEIT's Micro",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "license": "MIT",
+  "peerDependencies": {
+    "micro": "^9.3.4"
+  },
+  "devDependencies": {
+    "@types/micro": "^7.3.3",
+    "yup": "^0.28.4",
+    "micro": "^9.3.4",
+    "jest": "^25.4.0",
+    "test-listen": "^1.1.0",
+    "axios": "^0.19.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
